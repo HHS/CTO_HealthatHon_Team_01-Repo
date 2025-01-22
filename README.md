@@ -6,7 +6,7 @@ Healthathon Project led by Alexander Wilson
 
 [Team Leads]:
 
-Team Leads are responsible for managing all access requests, adding or removing user accounts, and approving or denying Pull Request submissions within their designated repo. We recommend that you refer to https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications in order to configure notifications and receive timely updates. For all technical, repo, or account issues, please email Domenic Caruano: Domenic.Caruano@hhs.gov.
+Team Leads are responsible for managing all access requests, adding or removing user accounts, and approving or denying Pull Request submissions within their designated repo. We recommend that you refer to https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/configuring-notifications in order to configure notifications and receive timely updates. For all technical, repo, or account issues, please email hhs_github_service_desk@hhs.gov.
 
 
 
